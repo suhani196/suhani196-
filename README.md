@@ -34,7 +34,7 @@ A frontend developer focused on building clean, interactive web experiences usin
 
 ---
 
-## GitHub Stats
+# GitHub Stats
 
 ![Suhani's Stats](https://github-readme-stats.vercel.app/api?username=suhani196&show_icons=true&theme=default&hide_border=true&title_color=333&icon_color=555)
 
