@@ -25,7 +25,7 @@ A frontend developer focused on building clean, interactive web experiences usin
 
 ---
 
-## Projects
+#project
 
 | Project | Tech Used | Description |
 |---------|-----------|-------------|
