@@ -1,10 +1,9 @@
-# suhani196-
+# suhani196
 
 # Suhani | Frontend Developer
 
 A frontend developer focused on building clean, interactive web experiences using HTML, CSS, and JavaScript.
-
----
+🩷🩷
 
 ## About Me
 
@@ -45,3 +44,5 @@ A frontend developer focused on building clean, interactive web experiences usin
 ---
 
 *Open to opportunities — feel free to connect!*
+
+meow
